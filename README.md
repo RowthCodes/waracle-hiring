@@ -67,6 +67,7 @@ Important files and folders in the repository:
 ## Running tests
 
 Playwright (TypeScript)
+Open terminal and navigate to tests-playwright
 - Run all Playwright tests:
   - npx playwright test
   - or yarn playwright test
@@ -78,6 +79,7 @@ Playwright (TypeScript)
   - npx playwright test --headed --debug
 
 C# (.NET)
+Open terminal and navigate to tests-csharp
 - Restore and run the solution (from repository root):
   - dotnet restore QATestSuite.sln
   - dotnet test QATestSuite.sln
